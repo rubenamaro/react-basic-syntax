@@ -1,0 +1,7 @@
+.UserBox {
+    background: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 3px;
+    padding: 8px;
+    margin: 8px;
+}
